@@ -38,8 +38,8 @@
 ### 진행 프로젝트
 | 프로젝트명 | 설명 | 보기 |
 |------------|------|--------|
-| **PENNE** | GAN기술을 이용한 가상모델 생성 및 가상피팅 솔루션 | [보기](https://sunny-whitefish-5a5.notion.site/GAN-15b2d83106ae81b0a5daf3bb3b7c9ec4) |
-| **공군 사격 도우미** | 데이터 분석 통한 사격 훈련 정교 맞춤 피드백 솔루션 | [보기](https://sunny-whitefish-5a5.notion.site/15b2d83106ae8162b600d8fb8278ed66) |
+| **PENNE** | GAN기술을 이용한 가상모델 생성 및 가상피팅 솔루션 | [보기](https://potent-ulna-8d7.notion.site/1e6737be1bc08060b267dc4fe69597d6?pvs=4) |
+| **공군 사격 도우미** | 데이터 분석 통한 사격 훈련 정교 맞춤 피드백 솔루션 | [보기](https://potent-ulna-8d7.notion.site/1e6737be1bc08060b267dc4fe69597d6?pvs=4) |
 | **대학교 축제 주점 주문 관리 서비스** | 부동산 검색 및 상권 분석 서비스 | [보기](https://github.com/giwon512/order-management-service) |
 | **패션포털 웹 서비스 개발** | 사용자별 추천 패션 콘텐츠 추천 서비스 | [보기](https://github.com/giwon512/fashion-web-service) |
 | **Top-k 추천을 위한 리뷰 기반 추천 시스템 개발** | GCN을 활용한 Multi-Layer Embedding 활용 방안 연구 | [보기](https://sunny-whitefish-5a5.notion.site/15b2d83106ae81bcbfdaef1db3f76f5b) |
