@@ -1,4 +1,4 @@
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Jiwon's%20Github%20%20&fontAlign=30&fontSize=30&textBg=false&desc=Use%20%27textBg%27%20to%20highlight%20%27text%27&descAlign=60&descAlignY=50)
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Jiwon's%20Github%20%20&fontAlign=30&fontSize=30&descAlign=60&descAlignY=50)
 ## 안녕하세요 이지원입니다. 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyxun20&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="mailto:giwon512@naver.com"> 
