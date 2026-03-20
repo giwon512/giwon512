@@ -6,7 +6,7 @@
 </a>
 
 ## :mortar_board: Education
-**한양대학교 컴퓨터소프트웨어학부 (2019 - )** 
+**한양대학교 컴퓨터소프트웨어학부 (2019.03 - 2026.02)** 
 
 ##  :clipboard: Experience
 
